@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2kWBS3Wqws=",
+  "success": true,
+  "projectFilePath": "/home/francospinetta/Programación Web/MiPrimerCrud/MiPrimerCrud.csproj",
+  "expectedPackageFiles": [
+    "/home/francospinetta/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/home/francospinetta/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/francospinetta/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
